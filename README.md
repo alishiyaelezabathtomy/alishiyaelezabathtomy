@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Alishiya 👋
 
-<!--
-**alishiyaelezabathtomy/alishiyaelezabathtomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- Django
+- SQL
+- Machine Learning
+
+## Projects
+
+🚀 LearnIn - AI Student Engagement Monitoring System
+
+AI-based system using computer vision to monitor student engagement during online classes.
+
+## Currently Learning
+
+- Data Structures and Algorithms
+- Backend Development
+- Machine Learning
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/alishiya-elezabath-tomy-414013280?utm_source=share_via&utm_content=profile&utm_medium=member_android
