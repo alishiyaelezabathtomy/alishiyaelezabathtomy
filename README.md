@@ -1,9 +1,11 @@
 # Hi, I'm Alishiya 👋
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science Graduate
 
 💻 Aspiring Software Developer | AI/ML Enthusiast
-
+- Passionate about AI, ML, and Full Stack Development  
+- Interested in real-world problem-solving projects  
+- Currently learning advanced Python & Django  
 ## Skills
 
 - Python
@@ -18,15 +20,10 @@
 
 ## Projects
 
-🚀 LearnIn - AI Student Engagement Monitoring System
+LearnIn AI Student Engagement System
+AI Resume Screening System
+Journey Sync Bus Booking System
 
-AI-based system using computer vision to monitor student engagement during online classes.
-
-## Currently Learning
-
-- Data Structures and Algorithms
-- Backend Development
-- Machine Learning
 
 ## Connect With Me
 
